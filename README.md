@@ -8,14 +8,14 @@ Landmark Name: College of Computers and Information Technology (CIT Building) at
 
 ### Credits :
 
-Anas Sami Al-Harthi
-Mohammad Abdullah Al-Harthi
-Saad Saeed Al-Malki (Team Leader)
-Feras Awdah Al-Malki
-Abdulrahman Moqbil Al-Harthi
-Muhanad Abdullah Al-Humaidi
-Raed Mutheb Al-Subaie
-Osama Nayaf Al-Mutairi
-Fahad Jum’aan Al-Malki
+- Anas Sami Al-Harthi
+- Mohammad Abdullah Al-Harthi
+- Saad Saeed Al-Malki (Team Leader)
+- Feras Awdah Al-Malki
+- Abdulrahman Moqbil Al-Harthi
+- Muhanad Abdullah Al-Humaidi
+- Raed Mutheb Al-Subaie
+- Osama Nayaf Al-Mutairi
+- Fahad Jum’aan Al-Malki
 
-Supervised by : Dr.Mohammad Miraj Mirza , Taif University
+- Supervised by : Dr.Mohammad Miraj Mirza , Taif University
