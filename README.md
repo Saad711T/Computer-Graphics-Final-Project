@@ -3,6 +3,8 @@ Final Project for "501472-3 | Computer Graphics Course in Taif University"
 
 Landmark Name: College of Computers and Information Technology (CIT Building) at Taif University.
 
+[See OpenGL Practices](https://github.com/Saad711T/OpenGL-Practices)
+
 ## Concept Sketch :
 <img width="453" height="409" alt="image" src="https://github.com/user-attachments/assets/03885e4f-e570-4091-9938-a248d38e28fc" />
 
